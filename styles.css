@@ -8,8 +8,8 @@
 body {
     font-family: 'Lato', sans-serif;
     background-color: #333;
-    background-color: #8EC5FC;
-    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
     overflow-x: hidden;
     margin: 0;
 }
@@ -34,8 +34,8 @@ body {
 }
 
 .circle {
-    background-color: #8EC5FC;
-    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
     /*box-shadow: 1px 1px 1px black, 0 0 25px blue, 0 0 5px darkblue;*/
     box-shadow:2px 3px 5px grey;
     height: 200px;
